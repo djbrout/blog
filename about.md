@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to our brand-new cosmology blog, a virtual space dedicated to unraveling the mysteries of the universe! Whether you’re a seasoned cosmologist, a curious science enthusiast, or someone eager to embark on a cosmic journey, this blog aims to engage and educate readers from all backgrounds. We are thrilled to bring you exciting papers, groundbreaking results, and insightful discussions from the world of cosmology. In addition, we have some surprises in store, including guest writers, controversial debates, instructional content, and outreach initiatives. 
 
-### More Information
+### Contact us with your post ideas or commentary
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[djbrout (at) domain.com]
+<!-- (mailto:email@domain.com) -->
